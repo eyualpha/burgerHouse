@@ -1,2 +1,2 @@
 # burgerHouse
-this is my first progect
+this is my first project
